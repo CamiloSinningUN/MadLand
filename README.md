@@ -1,44 +1,42 @@
-# MadLand
+#madland
 
-Juego 2.5D multijugador con tematica de vaqueros. El objetivo del juego es vencer al adversario haciendo uso tu arma, este arma tiene un tiempo de reutilización de 1 segundo. En un campo de 1 vs 1 ambos jugadores tienen la posibilidad de moverse usando las flechas del teclado y disparar usando la barra espaciadora. Para probarlo de forma online ingresar a: https://arcane-oasis-73107.herokuapp.com/
+2.5D multiplayer game with a cowboy theme. The objective of the game is to defeat the opponent using your weapon, this weapon has a cooldown of 1 second. In a 1 vs 1 field both players have the possibility to move using the arrow keys and shoot using the space bar. To try it online go to: https://arcane-oasis-73107.herokuapp.com/
 
 ![madland](https://user-images.githubusercontent.com/61607058/126846839-3f621974-db18-4c65-80a8-75dc22ee9e48.jpg)
 
-## Comenzando 🚀
+## Starting 🚀
 
-Puede obtener una copia del proyecto simplemente descargandolo desde este repositorio.
+You can get a copy of the project simply by downloading it from this repository.
 
-Mira **Despliegue** para conocer como desplegar el proyecto.
+See **Deployment** to learn how to deploy the project.
 
-### Pre-requisitos 📋
+### Pre-requisites 📋
 
-El proyecto fue desarrollado usando el lenguaje de programación javaScript usando el framework phaser y express.js, ademas el engine node.js y la libreria socket.io.
+The project was developed using the javaScript programming language using the phaser and express.js framework, as well as the node.js engine and the socket.io library.
 
-* Para obtener Phaser visitar: https://phaser.io/download
-* Para obtener Node.js visitar: https://nodejs.org/es/
+* To get Phaser visit: https://phaser.io/download
+* To obtain Node.js visit: https://nodejs.org/es/
 
-### Instalación 🔧
+### Installation 🔧
 
-Para la correcta instalación de los recursos descargar las librerias usando node.js a través de la consola.
+For the correct installation of the resources, download the libraries using node.js through the console.
 
-## Despliegue 📦
+## Deployment 📦
 
-Abrir el proyecto con el editor de código de preferencia.
+Open the project with the preferred code editor.
 
-## Construido con 🛠️
+## Built with 🛠️
 
 * Visual Studio Code - IDE
-* Phaser - Engine
+* Phaser-Engine
 * Node.js
 * Socket.io
 * Express.js
 
-## Autores ✒️
+## Authors ✒️
 
-* **Camilo Sinning** - *Programación Front-End* - [CamiloSinningUN](https://github.com/CamiloSinningUN)
-* **Juan Julio** - *Diseño* - 
-* **Sebastian*** - *Programación Back-End* -
+* **Camilo Sinning** - *Front-End Programming* - [CamiloSinningUN](https://github.com/CamiloSinningUN)
+* **Juan Julio** - *Design* - [djulioj](https://github.com/djulioj)
+* **Sebastian*** - *Back-End Programming* -
 
-Mirar la lista de todos los [contribuyentes](https://github.com/CamiloSinningUN/Graficador/contributors) quíenes han participado en este proyecto. 
-
-
+See the list of all the [contributors](https://github.com/CamiloSinningUN/Graficador/contributors) who have participated in this project.
