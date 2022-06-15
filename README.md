@@ -1,4 +1,4 @@
-#madland
+# MadLand
 
 2.5D multiplayer game with a cowboy theme. The objective of the game is to defeat the opponent using your weapon, this weapon has a cooldown of 1 second. In a 1 vs 1 field both players have the possibility to move using the arrow keys and shoot using the space bar. To try it online go to: https://arcane-oasis-73107.herokuapp.com/
 
