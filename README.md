@@ -37,6 +37,6 @@ Open the project with the preferred code editor.
 
 * **Camilo Sinning** - *Front-End Programming* - [CamiloSinningUN](https://github.com/CamiloSinningUN)
 * **Juan Julio** - *Design* - [djulioj](https://github.com/djulioj)
-* **Sebastian*** - *Back-End Programming* -
+* **Sebastian Guzman** - *Back-End Programming* -
 
 See the list of all the [contributors](https://github.com/CamiloSinningUN/Graficador/contributors) who have participated in this project.
